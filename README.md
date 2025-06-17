@@ -1,7 +1,8 @@
-3DSController ![](/3DS/cxi/icon48x48.png?raw=true)
+Shiny3DSController ![](/3DS/cxi/icon48x48.png?raw=true)
 ===
 A 3DS homebrew application which allows you to use your 3DS as a wireless controller for Windows.
 
+**This Version of 3DSController needs the Button Combination of START + L + X instead of START + SELECT. Mainly so you can Shiny Hunt on PC.
 ### Download
 The latest release will always be downloadable from [here](https://github.com/CTurt/3DSController/releases/).
 
